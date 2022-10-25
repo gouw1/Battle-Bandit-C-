@@ -1,0 +1,3 @@
+rep "UAS GAMES@utsgang@cloud"
+  path "/"
+    smartbranch "/main"
